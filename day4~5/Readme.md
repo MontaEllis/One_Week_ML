@@ -1,0 +1,1 @@
+记录7个模型（逻辑回归、SVM、决策树、随机森林、GBDT、XGBoost和LightGBM）关于accuracy、precision，recall和F1-score、auc值的评分表格，并画出Roc曲线。
